@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Einzelarbeit_01531641"
