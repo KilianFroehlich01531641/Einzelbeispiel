@@ -35,6 +35,7 @@ public class UniThread extends Thread{
             i = 7;
         } catch (Exception e){
             answer = "crashed " + i;
+            e.printStackTrace();
         }
     }
 
